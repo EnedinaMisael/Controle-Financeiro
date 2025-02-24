@@ -2,12 +2,14 @@ Projeto para Controle Financeiro
 
 As tecnologias utilizadas foram:
 
+-> PHP Nativo;
+
 -> HTML5;
 
 -> CSS3;
 
--> JavaScript Nativo;
+-> JavaScript com JQuery;
 
--> MySQL Workbench
+-> MySQL Workbench;
 
--> Projeto com Responsividade Nativa (@media screen).
+-> Projeto com Responsividade utilizando BootStrap.
